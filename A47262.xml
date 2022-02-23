@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the honourable, the House of Commons assembled in Parliament. Proposals humbly offered for a provision for the poor, and setting them to work.</title>
+            <author>Kent, Dircy.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47262</idno>
+            <idno type="STC">Wing K309</idno>
+            <idno type="STC">ESTC R221021</idno>
+            <idno type="EEBO-CITATION">99832404</idno>
+            <idno type="PROQUEST">99832404</idno>
+            <idno type="VID">36877</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47262)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36877)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1780:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the honourable, the House of Commons assembled in Parliament. Proposals humbly offered for a provision for the poor, and setting them to work.</title>
+                  <author>Kent, Dircy.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing identifies the author as Dixey Kent.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poor laws --  England --  Early works to 1800.</term>
+               <term>Poor --  Employment --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:36877:1" rendition="simple:additions"/>
+            <head>To the Honourable, the Houſe of Commons aſſembled in Parliament.</head>
+            <head>Propoſals humbly offered for a Proviſion for the <hi>POOR,</hi> and ſetting them to <hi>WORK.</hi>
+            </head>
+            <div type="part">
+               <p>
+                  <note place="margin">Imprimis</note>THAT this Honourable Houſe do nominate and appoint ſuch a number of Men, of known Eſtates, Integrity and Judgment in Merchandize, <hi>&amp;c.</hi> either within or without the Houſe, as ſhall be thought fit to be Truſtees, as we<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l to receive the Monies collected for the Maintainance of the Poor, as likewiſe of a full Power to ſet to Work and Imploy all Able, to correct Offenders, and in all Points to imploy ſuch Mony and Produce of the Labour, for the Good not only of thoſe able to work, but alſo for the Maintenance of the Aged, Cripples and Infants.</p>
+               <p>
+                  <hi>That</hi> the Parties, thus named, to be Truſtees, be Incorporated by the Name of <hi>Governor and Company of Truſtees for the Poor</hi>; Or, <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> and to meet at <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> and chuſe a Governor and Deputy, and <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> Com<g ref="char:EOLhyphen"/>mittees, and ſo Annually, for ever, after the manner of the Bank of <hi>England.</hi> The Committees thus choſen, and ſworn to be true to the Govern<g ref="char:EOLhyphen"/>ment and faithful in their Truſt, to prepare By-Laws to be preſented at a general Court of Truſtees within <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> days, by the Majority to be Confirmed, Altered or Set-aſide, as ſhall appear moſt conducing to the Good of the Poor; and that ſuch By-Laws, thus made, all Juſtices of the Peace, Overſeers of the Poor, Church-Wardens, Conſtables and all Others, do obey ſo far as they do relate to the Poor, under the Penalty of <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> for every Offence.</p>
+               <p>
+                  <hi>That</hi> all the Mony due, owing and remaining in Stock, and likewiſe all Lands, Rents, Revenues and Mony yearly ariſing, and payable to the Poor out of the ſeveral Pariſhes of this Kingdom, <hi>&amp;c.</hi> become payable to the ſaid Committee of Truſtees; and, that the Overſeers of the Poor and Church-Wardens of every Pariſh, do, at or before the <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> day of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> 1694. give a true Account to the ſaid Committee, under the Hands and upon Oath, of ſuch Overſeers, Church-Wardens and Miniſter of every Pariſh, before ſome neighbouring Juſtice of Peace, of ſuch Mony, Stock, Lands and Rents payable to the Uſe of the Poor, and of all Perſons as are chargeable to ſuch Pariſh: And ſhall likewiſe, at or before the ſaid <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> day of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> 1694. reſpectively pay to the ſaid Committe, or to ſuch as they ſhall appoint, all ſuch Mony due and owing to the Uſe of the Poor: And that the ſaid Overſeers, <hi>&amp;c.</hi> do in like manner, and on or before the ſaid day, give a true Account to the ſaid Committee, of all ſuch Sums of Mony as was aſſeſſed or payable out of their reſpective Pariſhes to the Poor this preſent Year; which ſaid Aſſeſſment to be Annually chargeable upon every ſuch reſpective Pariſh, to be collected as formerly, and paid Quarterly to the ſaid Committee, or thoſe appointd by them.</p>
+               <p>Except all Colledges, Hoſpitals and Foundations, that are (or hereafter may be) Erected and Endowed.</p>
+               <p>
+                  <hi>That</hi> it may be lawful for the ſaid Committee, or thoſe appointed by them, To provide and erect Work-houſes and Hoſpitals, for ſetting at Work and maintaining the Poor in the moſt convenient Places within this Kingdom, on the Linnen or ſome other Foreign Manufactures; or ſuch Manufa<g ref="char:EOLhyphen"/>ctures of our own, that may not be to the Ruin of the preſent Induſtrious People of this Kingdom.</p>
+               <p>
+                  <hi>That</hi> it may be lawful for the ſaid Committee, or thoſe by them appointed, where they find either Houſes or Lands moſt proper to build ſuch Work-houſes and Hoſpitals upon, or to Endow them with, to purchaſe the ſame, and the Owners thereof be obliged to ſell and deliver the ſaid Lands or Houſes within <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> days after notice, at <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> Years purchaſe, according to the preſent or laſt Rents, allowing for Damage by being Uninha<g ref="char:EOLhyphen"/>bited or let run to Ruin.</p>
+               <p>
+                  <hi>That</hi> after <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> days notice given of any ſuch Lands or Tenements, ſo purchaſed, by publication in the Gazette or <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> no former Sale, Mortgage, <hi>&amp;c.</hi> ſhall have any Claim or Title, either in Law or Equity, to any part, or the whole of the Purchaſe-mony; but where, within the time limited, there doth any Diſpute ariſe, the Purchaſe-mony to remain in the Hands of the ſaid Committee, Intereſt free, until the Matter ſhall be decided between the Clamants by Law or otherwiſe</p>
+               <p>
+                  <hi>That</hi> for the better eſtabliſhing the Linnen Manufactures to the beſt Advantage to theſe Kingdoms, all ſorts of Flax and Hemp, <hi>&amp;c.</hi> of the Growth of <hi>Ireland,</hi> be Imported, Cuſtom free, and from other Countries at a low and eaſy Cuſtom; and that ſuch additional Duties be laid on all Fo<g ref="char:EOLhyphen"/>reign Linnens, Silks and Papers, as may encourage thoſe Manufactures in this Kingdom.</p>
+               <p>
+                  <hi>That</hi> a Sum not exceeding <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> 
+                  <hi>per Annum,</hi> be allotted towards the defraying the Expences of the Perſons choſen to be of the ſaid Committee, to be paid them in proportion to their attendance at the Committee; and that it may be lawful for the ſaid Committee, to allow ſuch Salleries to their Officers, as ſhall from time to time appear reaſonable and neceſſary.</p>
+               <p>
+                  <hi>That</hi> whereas the beginning ſo great a Work will require an extraordinary Expence, the ſaid Committee have power to borrow Mony at <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> 
+                  <hi>per Cent.</hi> Intereſt, on the Security of the Poor's Rates.</p>
+               <p>
+                  <hi>That</hi> every Committee of Truſtees, before the Expiration of the Year they were choſen for, do cauſe a fair State of the Poor's Stock, by way of Debtor and Creditor to be prepared; and that each Perſon of the ſaid Committee do examine the ſame by their Books or ſuch other Accounts as the ſame may refer to, and put their Hands and Seals to their ſaid Books and Accounts: And like wiſe under their Hands and Seals certifie the ſaid State to be true, and a juſt Abſtract of their Books and Accounts; and do deliver the ſame to the new elected Governour and Committees upon their Ad<g ref="char:EOLhyphen"/>miſſion to their Truſt; for Neglect whereof each Perſon neglecting to be puniſhable by <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> And the Committee for the time being be accountable to every Seſſion of Parliament.</p>
+               <p>
+                  <hi>That</hi> ſo much of the Statutes made in the 39th Year of the Reign of Queen <hi>Elizabeth,</hi> the 1ſt Year of King <hi>James</hi> I. And the 14th Year of King <hi>Charles</hi> II. as concern the Apprehending Rogues, Vagabonds and ſturdy Beggars, be duly put in execution, and the Perſons appre<g ref="char:EOLhyphen"/>hended be ſent to ſuch Work-houſes as the ſaid Committee ſhall appoint. And that it may be lawful for the ſaid Committee, or any <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> or more of them to correct the Idle, Sloathful and Offenders by <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> 
+               </p>
+            </div>
+            <div type="part">
+               <head>Reaſons humbly offered to the Honourable the Houſe of Commons for paſſing the Propoſals for ſetting the POOR at Work into an Act.</head>
+               <list>
+                  <item>
+                     <note place="margin">Imprimis</note>ABove all others, it is moſt reaſonable to ſuppoſe, That the Members in Parliament are the moſt competent Judges of Perſons proper for ſuch a Truſt.</item>
+                  <item>II. That the Power cannot be leſs than propoſed, becauſe of the many Difficulties which unavoidably will attend ſo great a Work.</item>
+                  <item>III. That the Mony ought to be paid in preſently, and a Borrowing Clauſe allow'd for as much as the firſt Years Expence will abundantly exceed any ſucceeding Years, Materials being to be bought, the Expence in fixing their Abode, and the ſmall Earnings they will make of any Work at the beginning.</item>
+                  <item>IV. That the Poor ought not to be imploy'd on any of our own Staple Manufactures that are now in a flouriſhing Condition, becauſe that will only change the Hands and not increaſe the Trade, and thereby advance the Beggars, to beggar the preſent induſtrious Workmen.</item>
+                  <item>V. That the Poor ought not to be imploy'd in their reſpective Pariſhes, but at ſome convenient Places near the Sea, and in the moſt plentiful Parts of the Country, that thereby they may be furniſh'd with Proviſions at the eaſier Rates.</item>
+                  <item>VI. That all the Encouragement in the World ought to be given to the Iriſh to raiſe Flax, becauſe thereby it may in ſome meaſure divert their Breeding and Fatting of Cattle, the ſame Land being proper for both.</item>
+                  <item>VII. That the Truſtees for the Poor ought to be accountable to Parliament, that thereby the preſent Rates may be leſſen'd or augmented as ſhall appear neceſſary.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>The Benefits hereby accruing will be,</head>
+               <p>THE Poor will be relieved from the many Preſſures they now groan under, and the Nation freed from the Scandal.</p>
+               <p>And it will undoubtedly eſtabliſh the Manufactures of Linnen, Lace, Tape, Thred, <hi>&amp;c.</hi> foraſmuch as the Mony rais'd for the Maintainance of the Poor will enable them to work cheaper than any of our Neighbours; By which means great part of the Commodities from <hi>Spain</hi> and their <hi>Weſt<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>s,</hi> and likewiſe from our Plantations, as <hi>Barbadoes, Virginia, Jamaica, New-England, New-found-land, Maryland, Carolina, Mevis, Antego,</hi> and ſeveral other Parts beyond the Seas, to which ſuch great Quantities of Linnen, <hi>&amp;c.</hi> are yearly exported, will be the Proceed of the Labour of the preſent Idle Vagrants and Beggars, beſides the Conſumption within our ſelves, for all which ſuch vaſt ſums of Mony (in time of Peace are ſent to <hi>France,</hi> and) at preſent to our other Neighbours, towards the Employing their Poor and ſtarving our own.</p>
+               <closer>
+                  <signed>All which is humbly ſubmitted to the Conſideration of this Auguſt Aſſembly, by <hi>Dixey Kent.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
